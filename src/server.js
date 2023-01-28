@@ -7,13 +7,16 @@ const connect = require('./configs/db');
 const app = express();
 
 const userRoute = require('./routes/user.route');
+const quizRoute = require("./routes/quiz.route");
 
+// Middlewares
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(cors());
 
 // Routes
 app.use('/users', userRoute);
+app.use('/quiz', quizRoute);
 
 app.get('/', (request, response) => {
     return response.send('Hello, Topper!');

@@ -1,0 +1,1442 @@
+[
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which film star has his statue in Leicester Square?",
+        "correct_answer": "Charlie Chaplin",
+        "incorrect_answers": [
+            "Paul Newman",
+            "Rowan Atkinson ",
+            "Alfred Hitchcock"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of the following chemicals are found in eggplant seeds?",
+        "correct_answer": "Nicotine",
+        "incorrect_answers": [
+            "Mescaline",
+            "Cyanide",
+            "Psilocybin"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which musician has collaborated with American producer Porter Robinson and released the 2016 song &quot;Shelter&quot;?",
+        "correct_answer": "Madeon",
+        "incorrect_answers": [
+            "Mat Zo",
+            "deadmau5",
+            "Zedd"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "How long did it take the motorized window washers of the original World Trade Center to clean the entire exterior of the building?",
+        "correct_answer": "1 Month",
+        "incorrect_answers": [
+            "3 Weeks",
+            "1 Week",
+            "2 Months"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "According to Fair Works Australia, how long do you have to work to get Long Service Leave?",
+        "correct_answer": "7 years",
+        "incorrect_answers": [
+            "2 years",
+            "8 years",
+            "6 months"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which product did Nokia, the telecommunications company, originally sell?",
+        "correct_answer": "Paper",
+        "incorrect_answers": [
+            "Phones",
+            "Computers",
+            "Processors"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In flight systems, what does the initialism &quot;TCAS&quot; stand for?",
+        "correct_answer": "Traffic Collision Avoidance System",
+        "incorrect_answers": [
+            "Traffic Communication Alert System",
+            "Traffic Configuration Alignment System",
+            "Traffic Call-sign Abbreviation System"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "The Quadrangularis Reversum is best described as which of the following?",
+        "correct_answer": "A percussion instrument",
+        "incorrect_answers": [
+            "A building in Oxford University",
+            "A chess move",
+            "A geometric theorem"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In &quot;Battle Cats&quot;, what is Moneko / MISS Moneko&#039;s critical percentage rate?",
+        "correct_answer": "15%",
+        "incorrect_answers": [
+            "20%",
+            "10%",
+            "25%"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In &quot;Resident Evil 3&quot;, how many inventory slots does Jill have at the start of the game?",
+        "correct_answer": "10",
+        "incorrect_answers": [
+            "6",
+            "8",
+            "12"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sign of the zodiac is represented by the Crab?",
+        "correct_answer": "Cancer",
+        "incorrect_answers": [
+            "Libra",
+            "Virgo",
+            "Sagittarius"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What alcoholic drink is made from molasses?",
+        "correct_answer": "Rum",
+        "incorrect_answers": [
+            "Gin",
+            "Vodka",
+            "Whisky"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The New York Times slogan is, &ldquo;All the News That&rsquo;s Fit to&hellip;&rdquo;",
+        "correct_answer": "Print",
+        "incorrect_answers": [
+            "Digest",
+            "Look",
+            "Read"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which restaurant&#039;s mascot is a clown?",
+        "correct_answer": "McDonald&#039;s",
+        "incorrect_answers": [
+            "Whataburger",
+            "Burger King",
+            "Sonic"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What machine element is located in the center of fidget spinners?",
+        "correct_answer": "Bearings",
+        "incorrect_answers": [
+            "Axles",
+            "Gears",
+            "Belts"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sign of the zodiac comes between Virgo and Scorpio?",
+        "correct_answer": "Libra",
+        "incorrect_answers": [
+            "Gemini",
+            "Taurus",
+            "Capricorn"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In which fast food chain can you order a Jamocha Shake?",
+        "correct_answer": "Arby&#039;s",
+        "incorrect_answers": [
+            "McDonald&#039;s",
+            "Burger King",
+            "Wendy&#039;s"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The likeness of which president is featured on the rare $2 bill of USA currency?",
+        "correct_answer": "Thomas Jefferson",
+        "incorrect_answers": [
+            "Martin Van Buren",
+            "Ulysses Grant",
+            "John Quincy Adams"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "According to the nursery rhyme, what fruit did Little Jack Horner pull out of his Christmas pie?",
+        "correct_answer": "Plum",
+        "incorrect_answers": [
+            "Apple",
+            "Peach",
+            "Pear"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Terry Gilliam was an animator that worked with which British comedy group?",
+        "correct_answer": "Monty Python",
+        "incorrect_answers": [
+            "The Goodies&lrm;",
+            "The League of Gentlemen&lrm;",
+            "The Penny Dreadfuls"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "This field is sometimes known as &ldquo;The Dismal Science.&rdquo;",
+        "correct_answer": "Economics",
+        "incorrect_answers": [
+            "Philosophy",
+            "Politics",
+            "Physics"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What does the &quot;G&quot; mean in &quot;G-Man&quot;?",
+        "correct_answer": "Government",
+        "incorrect_answers": [
+            "Going",
+            "Ghost",
+            "Geronimo"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which Italian automobile manufacturer gained majority control of U.S. automobile manufacturer Chrysler in 2011?",
+        "correct_answer": "Fiat",
+        "incorrect_answers": [
+            "Maserati",
+            "Alfa Romeo",
+            "Ferrari"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the name of the popular animatronic singing fish prop, singing such hits such as &quot;Don&#039;t Worry, Be Happy&quot;?",
+        "correct_answer": "Big Mouth Billy Bass",
+        "incorrect_answers": [
+            "Big Billy Bass",
+            "Singing Fish",
+            "Sardeen"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What country saw a world record 315 million voters turn out for elections on May 20, 1991?",
+        "correct_answer": "India",
+        "incorrect_answers": [
+            "United States of America",
+            "Soviet Union",
+            "Poland"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which iconic Disneyland attraction was closed in 2017 to be remodeled as a &quot;Guardians of the Galaxy&quot; themed ride?",
+        "correct_answer": "Twilight Zone Tower of Terror",
+        "incorrect_answers": [
+            "The Haunted Mansion",
+            "Pirates of the Caribbean",
+            "Peter Pan&#039;s Flight"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is a Burgee?",
+        "correct_answer": "A flag",
+        "incorrect_answers": [
+            "A rope",
+            "A window",
+            "A type of food"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which slogan did the fast food company, McDonald&#039;s, use before their &quot;I&#039;m Lovin&#039; It&quot; slogan?",
+        "correct_answer": "We Love to See You Smile",
+        "incorrect_answers": [
+            "Why Pay More!?",
+            "Have It Your Way",
+            "Making People Happy Through Food"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is real haggis made of?",
+        "correct_answer": "Sheep&#039;s Heart, Liver and Lungs",
+        "incorrect_answers": [
+            "Sheep&#039;s Heart, Kidneys and Lungs",
+            "Sheep&#039;s Liver, Kidneys and Eyes",
+            "Whole Sheep"
+        ]
+    },
+    {
+        "category": "General-Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the star sign of someone born on Valentines day?",
+        "correct_answer": "Aquarius",
+        "incorrect_answers": [
+            "Pisces",
+            "Capricorn",
+            "Scorpio"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In any programming language, what is the most common way to iterate through an array?",
+        "correct_answer": "&#039;For&#039; loops",
+        "incorrect_answers": [
+            "&#039;If&#039; Statements",
+            "&#039;Do-while&#039; loops",
+            "&#039;While&#039; loops"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The programming language &#039;Swift&#039; was created to replace what other programming language?",
+        "correct_answer": "Objective-C",
+        "incorrect_answers": [
+            "C#",
+            "Ruby",
+            "C++"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:",
+        "correct_answer": "HD Graphics 500",
+        "incorrect_answers": [
+            "HD Graphics 700 ",
+            "HD Graphics 600",
+            "HD Graphics 7000"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which computer language would you associate Django framework with?",
+        "correct_answer": "Python",
+        "incorrect_answers": [
+            "C#",
+            "C++",
+            "Java"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The numbering system with a radix of 16 is more commonly referred to as ",
+        "correct_answer": "Hexidecimal",
+        "incorrect_answers": [
+            "Binary",
+            "Duodecimal",
+            "Octal"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "How many values can a single byte represent?",
+        "correct_answer": "256",
+        "incorrect_answers": [
+            "8",
+            "1",
+            "1024"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "How long is an IPv6 address?",
+        "correct_answer": "128 bits",
+        "incorrect_answers": [
+            "32 bits",
+            "64 bits",
+            "128 bytes"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In computing, what does MIDI stand for?",
+        "correct_answer": "Musical Instrument Digital Interface",
+        "incorrect_answers": [
+            "Musical Interface of Digital Instruments",
+            "Modular Interface of Digital Instruments",
+            "Musical Instrument Data Interface"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In computing, what does LAN stand for?",
+        "correct_answer": "Local Area Network",
+        "incorrect_answers": [
+            "Long Antenna Node",
+            "Light Access Node",
+            "Land Address Navigation"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What does the computer software acronym JVM stand for?",
+        "correct_answer": "Java Virtual Machine",
+        "incorrect_answers": [
+            "Java Vendor Machine",
+            "Java Visual Machine",
+            "Just Virtual Machine"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What five letter word is the motto of the IBM Computer company?",
+        "correct_answer": "Think",
+        "incorrect_answers": [
+            "Click",
+            "Logic",
+            "Pixel"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "On which computer hardware device is the BIOS chip located?",
+        "correct_answer": "Motherboard",
+        "incorrect_answers": [
+            "Hard Disk Drive",
+            "Central Processing Unit",
+            "Graphics Processing Unit"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "All of the following programs are classified as raster graphics editors EXCEPT:",
+        "correct_answer": "Inkscape",
+        "incorrect_answers": [
+            "Paint.NET",
+            "GIMP",
+            "Adobe Photoshop"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "While Apple was formed in California, in which western state was Microsoft founded?",
+        "correct_answer": "New Mexico",
+        "incorrect_answers": [
+            "Washington",
+            "Colorado",
+            "Arizona"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "How many cores does the Intel i7-6950X have?",
+        "correct_answer": "10",
+        "incorrect_answers": [
+            "12",
+            "8",
+            "4"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In the server hosting industry IaaS stands for...",
+        "correct_answer": "Infrastructure as a Service",
+        "incorrect_answers": [
+            "Internet as a Service",
+            "Internet and a Server",
+            "Infrastructure as a Server"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In CSS, which of these values CANNOT be used with the &quot;position&quot; property?",
+        "correct_answer": "center",
+        "incorrect_answers": [
+            "static",
+            "absolute",
+            "relative"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of these programming languages is a low-level language?",
+        "correct_answer": "Assembly",
+        "incorrect_answers": [
+            "Python",
+            "C#",
+            "Pascal"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In computing terms, typically what does CLI stand for?",
+        "correct_answer": "Command Line Interface",
+        "incorrect_answers": [
+            "Common Language Input",
+            "Control Line Interface",
+            "Common Language Interface"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Laserjet and inkjet printers are both examples of what type of printer?",
+        "correct_answer": "Non-impact printer",
+        "incorrect_answers": [
+            "Impact printer",
+            "Daisywheel printer",
+            "Dot matrix printer"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?",
+        "correct_answer": "Micronesia",
+        "incorrect_answers": [
+            "Fiji",
+            "Tuvalu",
+            "Marshall Islands"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of these names was an actual codename for a cancelled Microsoft project?",
+        "correct_answer": "Neptune",
+        "incorrect_answers": [
+            "Enceladus",
+            "Pollux",
+            "Saturn"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
+        "correct_answer": "Heartbleed",
+        "incorrect_answers": [
+            "Shellshock",
+            "Corrupted Blood",
+            "Shellscript"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the name of the process that sends one qubit of information using two bits of classical information?",
+        "correct_answer": "Quantum Teleportation",
+        "incorrect_answers": [
+            "Super Dense Coding",
+            "Quantum Entanglement",
+            "Quantum Programming"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "America Online (AOL) started out as which of these online service providers?",
+        "correct_answer": "Quantum Link",
+        "incorrect_answers": [
+            "CompuServe",
+            "Prodigy",
+            "GEnie"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of these is not a key value of Agile software development?",
+        "correct_answer": "Comprehensive documentation",
+        "incorrect_answers": [
+            "Individuals and interactions",
+            "Customer collaboration",
+            "Responding to change"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What does the International System of Quantities refer 1024 bytes as?",
+        "correct_answer": "Kibibyte",
+        "incorrect_answers": [
+            "Kylobyte",
+            "Kilobyte",
+            "Kelobyte"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What was the name of the first Bulgarian personal computer?",
+        "correct_answer": "IMKO-1",
+        "incorrect_answers": [
+            "Pravetz 82",
+            "Pravetz 8D",
+            "IZOT 1030"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What type of sound chip does the Super Nintendo Entertainment System (SNES) have?",
+        "correct_answer": "ADPCM Sampler",
+        "incorrect_answers": [
+            "FM Synthesizer",
+            "Programmable Sound Generator (PSG)",
+            "PCM Sampler"
+        ]
+    },
+    {
+        "category": "Science-Computers",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?",
+        "correct_answer": "Coffee Lake",
+        "incorrect_answers": [
+            "Sandy Bridge",
+            "Skylake",
+            "Broadwell"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who was the only god from Greece who did not get a name change in Rome?",
+        "correct_answer": "Apollo",
+        "incorrect_answers": [
+            "Demeter",
+            "Zeus",
+            "Athena"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who in Greek mythology, who led the Argonauts in search of the Golden Fleece?",
+        "correct_answer": "Jason",
+        "incorrect_answers": [
+            "Castor",
+            "Daedalus",
+            "Odysseus"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "This Greek goddess&#039;s name was chosen for the dwarf planet responsible for discord on Pluto&#039;s classification amongst astronomers.",
+        "correct_answer": "Eris",
+        "incorrect_answers": [
+            "Charon",
+            "Ceres",
+            "Dysnomia"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who was the King of Gods in Ancient Greek mythology?",
+        "correct_answer": "Zeus",
+        "incorrect_answers": [
+            "Apollo",
+            "Hermes",
+            "Poseidon"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which Greek &amp; Roman god was known as the god of music, truth and prophecy, healing, the sun and light, plague, poetry, and more?",
+        "correct_answer": "Apollo",
+        "incorrect_answers": [
+            "Aphrodite",
+            "Artemis",
+            "Athena"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In Greek mythology, who is the god of wine?",
+        "correct_answer": "Dionysus",
+        "incorrect_answers": [
+            "Hephaestus",
+            "Demeter",
+            "Apollo"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In most traditions, who was the wife of Zeus?",
+        "correct_answer": "Hera",
+        "incorrect_answers": [
+            "Aphrodite",
+            "Athena",
+            "Hestia"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which of these mythological creatures is said to be half-man and half-horse?",
+        "correct_answer": "Centaur",
+        "incorrect_answers": [
+            "Minotaur",
+            "Pegasus",
+            "Gorgon"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What mythology did the god &quot;Apollo&quot; come from?",
+        "correct_answer": "Greek and Roman",
+        "incorrect_answers": [
+            "Roman and Spanish",
+            "Greek and Chinese",
+            "Greek, Roman and Norse"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The Nike apparel and footwear brand takes it&#039;s name from the Greek goddess of what?",
+        "correct_answer": "Victory",
+        "incorrect_answers": [
+            "Courage",
+            "Strength",
+            "Honor"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "This Greek mythological figure is the god/goddess of battle strategy (among other things).",
+        "correct_answer": "Athena",
+        "incorrect_answers": [
+            "Ares",
+            "Artemis",
+            "Apollo"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Hera is god of...",
+        "correct_answer": "Marriage",
+        "incorrect_answers": [
+            "Agriculture",
+            "Sea",
+            "War"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of these Roman gods doesn&#039;t have a counterpart in Greek mythology?",
+        "correct_answer": "Janus",
+        "incorrect_answers": [
+            "Vulcan",
+            "Juno",
+            "Mars"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In Greek Mythology, who killed Achilles?",
+        "correct_answer": "Paris",
+        "incorrect_answers": [
+            "Hector",
+            "Helen",
+            "Pericles"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "A minotaur is half human half what?",
+        "correct_answer": "Bull",
+        "incorrect_answers": [
+            "Cow",
+            "Horse",
+            "Eagle"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the name of the Greek god of blacksmiths?",
+        "correct_answer": "Hephaestus",
+        "incorrect_answers": [
+            "Dyntos",
+            "Vulcan",
+            "Artagatus"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following is not one of the Greek Fates?",
+        "correct_answer": "Narcissus",
+        "incorrect_answers": [
+            "Clotho",
+            "Atropos",
+            "Lachesis"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the name of the first human being in Norse mythology?",
+        "correct_answer": "Ask",
+        "incorrect_answers": [
+            "Asmund",
+            "Ake",
+            "Asger"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Hel was the daughter of which Norse Mythological figure?",
+        "correct_answer": "Loki",
+        "incorrect_answers": [
+            "Thor",
+            "Odin",
+            "Balder"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What animal did Queen Pasipahe sleep with before she gave birth to the Minotaur in Greek Mythology?",
+        "correct_answer": "Bull",
+        "incorrect_answers": [
+            "Pig",
+            "Ox",
+            "Horse"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Talos, the mythical giant bronze man, was the protector of which island?",
+        "correct_answer": "Crete",
+        "incorrect_answers": [
+            "Sardinia",
+            "Sicily",
+            "Cyprus"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What was the punishment for Sysiphus&#039;s craftiness?",
+        "correct_answer": "Cursed to roll a boulder up a hill for eternity.",
+        "incorrect_answers": [
+            "Tied to a boulder for eternity, being pecked by birds.",
+            "Standing in a lake filled with water he could not drink.",
+            "To fell a tree that regenerated after every axe swing."
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "According to Algonquian folklore, how does one transform into a Wendigo?",
+        "correct_answer": "Participating in cannibalism.",
+        "incorrect_answers": [
+            "Excessive mutilation of animal corpses.",
+            "Performing a ritual involving murder.",
+            "Drinking the blood of many slain animals."
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In Norse mythology, what is the name of the serpent which eats the roots of the ash tree Yggdrasil?",
+        "correct_answer": "Nidhogg",
+        "incorrect_answers": [
+            "Bragi",
+            "Odin",
+            "Ymir"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of the following is NOT a god in Norse Mythology.",
+        "correct_answer": "Jens",
+        "incorrect_answers": [
+            "Loki",
+            "Tyr",
+            "Snotra"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Nidhogg is a mythical creature from what mythology?",
+        "correct_answer": "Norse",
+        "incorrect_answers": [
+            "Egyptian",
+            "Greek",
+            "Hindu"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Who is the Egyptian god of reproduction and lettuce?",
+        "correct_answer": "Min",
+        "incorrect_answers": [
+            "Menu",
+            "Mut",
+            "Meret"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What immense structure is referred to in Norse Mythology as the Yggdrasil.",
+        "correct_answer": "Tree",
+        "incorrect_answers": [
+            "Mountain",
+            "Temple",
+            "Castle"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which Norse God has a horse named Sleipnir?",
+        "correct_answer": "Odin",
+        "incorrect_answers": [
+            "Thor",
+            "Frigg",
+            "Balder"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Who is a minor god that is protector and creator of various arts, such as cheese making and bee keeping.",
+        "correct_answer": "Aristaeus",
+        "incorrect_answers": [
+            "Autonoe",
+            "Carme",
+            "Cephisso"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which of the following sports is not part of the triathlon?",
+        "correct_answer": "Horse-Riding",
+        "incorrect_answers": [
+            "Cycling",
+            "Swimming",
+            "Running"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In golf, what name is given to a hole score of two under par?",
+        "correct_answer": "Eagle",
+        "incorrect_answers": [
+            "Birdie",
+            "Bogey",
+            "Albatross"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The Rio 2016 Summer Olympics held it&#039;s closing ceremony on what date?",
+        "correct_answer": "August 21",
+        "incorrect_answers": [
+            "August 23",
+            "August 19",
+            "August 17"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What was the final score of the Germany vs. Brazil 2014 FIFA World Cup match?",
+        "correct_answer": "7 - 1",
+        "incorrect_answers": [
+            "0 - 1",
+            "3 - 4",
+            "16 - 0"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which city did the former NHL team &quot;The Nordiques&quot; originiate from?",
+        "correct_answer": "Quebec City",
+        "incorrect_answers": [
+            "Houston",
+            "Montreal",
+            "New York"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What year did the New Orleans Saints win the Super Bowl?",
+        "correct_answer": "2010",
+        "incorrect_answers": [
+            "2008",
+            "2009",
+            "2011"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "When was the first official international game played?",
+        "correct_answer": "1872",
+        "incorrect_answers": [
+            "1880",
+            "1863",
+            "1865"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the most common type of pitch thrown by pitchers in baseball?",
+        "correct_answer": "Fastball",
+        "incorrect_answers": [
+            "Slowball",
+            "Screwball",
+            "Palmball"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which country will host the 2022 FIFA World Cup?",
+        "correct_answer": "Qatar",
+        "incorrect_answers": [
+            "USA",
+            "Japan",
+            "Switzerland"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who won the 2017 Formula One World Drivers&#039; Championship?",
+        "correct_answer": "Lewis Hamilton",
+        "incorrect_answers": [
+            "Sebastian Vettel",
+            "Nico Rosberg",
+            "Max Verstappen"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In a game of snooker, what colour ball is worth 3 points?",
+        "correct_answer": "Green",
+        "incorrect_answers": [
+            "Yellow",
+            "Brown",
+            "Blue"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the oldest team in the NFL?",
+        "correct_answer": "Arizona Cardinals",
+        "incorrect_answers": [
+            "Chicago Bears",
+            "Green Bay Packers",
+            "New York Giants"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following pitchers was named National League Rookie of the Year for the 2013 season?",
+        "correct_answer": "Jose Fernandez",
+        "incorrect_answers": [
+            "Jacob deGrom",
+            "Shelby Miller",
+            "Matt Harvey"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Why was The Green Monster at Fenway Park was originally built?",
+        "correct_answer": "To prevent viewing games from outside the park.",
+        "incorrect_answers": [
+            "To make getting home runs harder.",
+            "To display advertisements.",
+            "To provide extra seating."
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In what sport does Fanny Chmelar compete for Germany?",
+        "correct_answer": "Skiing",
+        "incorrect_answers": [
+            "Swimming",
+            "Showjumping",
+            "Gymnastics"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "How many French Open&#039;s did Bj&ouml;rn Borg win?",
+        "correct_answer": "6",
+        "incorrect_answers": [
+            "4",
+            "9",
+            "2"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "How many premier league trophies did Sir Alex Ferguson win during his time at Manchester United?",
+        "correct_answer": "13",
+        "incorrect_answers": [
+            "11",
+            "20",
+            "22"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who is Manchester United&#039;s top premier league goal scorer?",
+        "correct_answer": "Wayne Rooney",
+        "incorrect_answers": [
+            "Sir Bobby Charlton",
+            "Ryan Giggs",
+            "David Beckham"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who was the topscorer for England national football team?",
+        "correct_answer": "Wayne Rooney",
+        "incorrect_answers": [
+            "David Beckham",
+            "Steven Gerrard",
+            "Michael Owen"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the name of the AHL affiliate of the Toronto Maple Leafs?",
+        "correct_answer": "Toronto Marlies",
+        "incorrect_answers": [
+            "Toronto Rock",
+            "Toronto Argonauts",
+            "Toronto Wolfpack"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "How many times did Martina Navratilova win the Wimbledon Singles Championship?",
+        "correct_answer": "Nine",
+        "incorrect_answers": [
+            "Ten",
+            "Seven",
+            "Eight"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Where was the Games of the XXII Olympiad held?",
+        "correct_answer": "Moscow",
+        "incorrect_answers": [
+            "Barcelona",
+            "Tokyo",
+            "Los Angeles"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which male player won the gold medal of table tennis singles in 2016 Olympics Games?",
+        "correct_answer": "Ma Long (China)",
+        "incorrect_answers": [
+            "Zhang Jike (China)",
+            "Jun Mizutani (Japan)",
+            "Vladimir Samsonov (Belarus)"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the full name of the footballer &quot;Cristiano Ronaldo&quot;?",
+        "correct_answer": "Cristiano Ronaldo dos Santos Aveiro",
+        "incorrect_answers": [
+            "Cristiano Ronaldo los Santos Diego",
+            "Cristiano Armando Diego Ronaldo",
+            "Cristiano Luis Armando Ronaldo"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which city features all of their professional sports teams&#039; jersey&#039;s with the same color scheme?",
+        "correct_answer": "Pittsburgh",
+        "incorrect_answers": [
+            "New York",
+            "Seattle",
+            "Tampa Bay"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which player &quot;kung-fu kicked&quot; a Crystal Palace fan in January 1995?",
+        "correct_answer": "Eric Cantona",
+        "incorrect_answers": [
+            "David Seamen",
+            "Ashley Cole",
+            "Mark Hughes"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is &ldquo;The Sport of Kings&rdquo;?",
+        "correct_answer": "Horse Racing",
+        "incorrect_answers": [
+            "Chess",
+            "Jousting",
+            "Fencing"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of these Russian cities did NOT contain a stadium that was used in the 2018 FIFA World Cup?",
+        "correct_answer": "Vladivostok",
+        "incorrect_answers": [
+            "Rostov-on-Don",
+            "Yekaterinburg",
+            "Kaliningrad"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "The AHL affiliate team of the Boston Bruins is named what?",
+        "correct_answer": "Providence Bruins",
+        "incorrect_answers": [
+            "New Haven Bruins",
+            "Cambridge Bruins",
+            "Hartford Bruins"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which English football team is nicknamed &#039;The Tigers&#039;?",
+        "correct_answer": "Hull City",
+        "incorrect_answers": [
+            "Cardiff City",
+            "Bristol City",
+            "Manchester City"
+        ]
+    }
+]

@@ -70,13 +70,14 @@ app.get('/profile', async (request, response) => {
 });
 
 app.patch('/update-score', async (request, response) => {
-    const { category, difficulty, score, _id } = request.body;
+    const { category, difficulty, score, _id, solved } = request.body;
 
     try {
         const user = await User.findOne({ _id });
         user.scores.push({
             category,
             difficulty,
+            solved,
             score,
             date: new Date()
         });

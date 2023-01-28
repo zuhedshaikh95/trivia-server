@@ -8,6 +8,7 @@ const userSchema = new mongoose.Schema({
     scores: [{
         category: String,
         difficulty: String,
+        solved: String,
         score: {
             type: Number,
             default: 0
